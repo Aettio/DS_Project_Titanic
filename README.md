@@ -1,3 +1,3 @@
-# DS_Project_v1.0
+# DS_Project_Titanic
 
 Decision tree algorithm.

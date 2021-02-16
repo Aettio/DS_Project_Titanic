@@ -1,4 +1,4 @@
-# Data science | project "Titanic"
+# Data science | Project: "Titanic"
 
 ## EDA
 

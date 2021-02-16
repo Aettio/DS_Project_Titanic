@@ -85,3 +85,5 @@ graph = tree.export_graphviz(clf_tuned,
                             class_names=['Dead', 'Survived']) 
 graph = graphviz.Source(graph)
 graph
+
+

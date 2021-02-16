@@ -1,6 +1,6 @@
 # Data science | Project: "Titanic"
 
-## EDA
+## EDA (Exploratory Data Analysis)
 Classification algorithm.
 
 

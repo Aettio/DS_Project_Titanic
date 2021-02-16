@@ -5,4 +5,4 @@
 
 Classification algorithm.
 
-!(https://github.com/Aettio/DS_Project_Titanic/Classification_Tree.jpg)
+!https://github.com/Aettio/DS_Project_Titanic/Classification_Tree.jpg

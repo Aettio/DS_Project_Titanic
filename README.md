@@ -1,3 +1,6 @@
-# DS_Project_Titanic
+# Data science project "Titanic"
+
+## EDA
+
 
 Classification algorithm.

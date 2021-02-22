@@ -6,9 +6,25 @@
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Корреляции.png)
 
-###
+### Визуализация выживших по полу
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выжившие_по_полу.png)
+
+### Визуализация выживших по возрасту 
+
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выжившие_по_возрасту.png)
+
+### Общая 3D визуализация
+
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Visual_3D.png)
+
+### Процент выживших по классу
+
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выживших_по_классу.png)
+
+### Выжившие по классу в соотношении с возрастом
+
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выжившие_по_классу_в_соотношении_с_возрастом.png)
 
 ## Classification Tree
 

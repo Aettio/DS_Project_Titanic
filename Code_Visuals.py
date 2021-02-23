@@ -11,8 +11,8 @@ plt.style.use("dark_background")
 
 # Открываем данные
 
-train_data = pd.read_csv("C:/Users/baran/Desktop/Datasets/Titanic/train.csv")
-gs = pd.read_csv("C:/Users/baran/Desktop/Datasets/Titanic/gender_submission.csv")
+train_data = pd.read_csv("train.csv")
+gs = pd.read_csv("gender_submission.csv")
 
 # Чистка данных train_data
 

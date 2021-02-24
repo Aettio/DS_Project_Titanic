@@ -1,6 +1,6 @@
 # Data science | Project: "Titanic"
 
-![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Titanic_picture.png)
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Titanic_picture.jpg)
 
 ## EDA (Exploratory Data Analysis)
 

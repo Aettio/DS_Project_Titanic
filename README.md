@@ -1,6 +1,6 @@
 # Data science | Project: "Titanic"
 
-## Состав
+## Разделы
 
 - Введение
 - Задача

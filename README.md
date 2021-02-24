@@ -14,11 +14,13 @@
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Корреляции.png)
 
+
 ### Визуализация выживших по полу
 
 Тут мы проверяем первую основную взаимосвязь. На данном графике мы видим что вероятность выживания приблизительно в 2 раза выше если пол женский.
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выжившие_по_полу.png)
+
 
 ### Процент выживших по классу
 
@@ -26,11 +28,13 @@
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выживших_по_классу.png)
 
+
 ### Визуализация выживших по возрасту 
 
 Анализ кореляции возраста у меня вызвал неоднозначные мысли, так что было принято решение углубиться с помощью 3Д визуализации.
 
 ![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Выжившие_по_возрасту.png)
+
 
 ### Общая 3D визуализация
 

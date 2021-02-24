@@ -4,9 +4,9 @@
 
 - Введение
 - Задача
-- EDA
-- Classification Tree
-- Conclusion
+- EDA (Анализ данных, более подробно можно просмотреть в Code_Visuals.py)
+- Classification Tree (Алгоритм распределения, более подробно можно просмотреть в Code_Tree.py)
+- Итог
 
 ## Введение
 

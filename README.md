@@ -1,5 +1,7 @@
 # Data science | Project: "Titanic"
 
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Titanic_picture.png)
+
 ## EDA (Exploratory Data Analysis)
 
 После чистки данных нужно было выделить основные зависимости и провести небольшой анализ взаимосвязей. Также нужно быть уверенным в том что они имеют смысл. Для начала анализа мною был выбран график для визуализации корреляций.

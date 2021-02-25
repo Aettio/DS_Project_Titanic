@@ -41,6 +41,7 @@ def simplify_age(clean_train):
     clean_train.loc[(clean_train['Age'] > 32) & (clean_train['Age'] <= 48), 'Age'] = 2
     clean_train.loc[(clean_train['Age'] > 48) & (clean_train['Age'] <= 64), 'Age'] = 3
     clean_train.loc[clean_train['Age'] > 48, 'Age'] = 4   
+    
     return clean_train
 
 clean_train = simplify_age(clean_train)
@@ -137,4 +138,7 @@ imgplot = plt.imshow(img)
 plt.show()
 
 ## Проверка Precision и Recall
+
 print(classification_report(y_test, predictions))
+
+

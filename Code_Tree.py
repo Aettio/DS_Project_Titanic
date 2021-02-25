@@ -110,17 +110,34 @@ print(cvs)
 
 print("Accuracy: %0.4f (+/- %0.4f)" % (cvs.mean(), cvs.std()*2))
 
-# Визуализация дерева
+# Визуализация дерева и сохранение 
 
-import graphviz 
+import matplotlib.pyplot as plt
+import pydotplus
+import matplotlib.image as mpimg
+from six import StringIO
+import io
 
-graph = tree.export_graphviz(clf, 
-                                out_file=None,
-                                filled=True, 
-                                rounded=True,  
+from sklearn.tree import export_graphviz
+
+dot_data = io.StringIO()
+
+export_graphviz(clf, out_file=dot_data, rounded=True, filled=True,  
                                 special_characters=True,
                                feature_names = X.columns,
-                            class_names=['Dead', 'Survived']) 
-graph = graphviz.Source(graph)
-graph
+                            class_names=['Dead', 'Survived'])
 
+filename = "tree.png"
+pydotplus.graph_from_dot_data(dot_data.getvalue()).write_png(filename)
+
+plt.figure(figsize=(12,12), dpi= 400)
+img = mpimg.imread(filename)
+imgplot = plt.imshow(img)
+
+plt.show()
+
+## Прдесказание данного сета
+predictions = clf.predict(X_test)
+
+## Проверка Precision и Recall
+print(classification_report(y_test, predictions))

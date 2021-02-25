@@ -136,8 +136,5 @@ imgplot = plt.imshow(img)
 
 plt.show()
 
-## Прдесказание данного сета
-predictions = clf.predict(X_test)
-
 ## Проверка Precision и Recall
 print(classification_report(y_test, predictions))

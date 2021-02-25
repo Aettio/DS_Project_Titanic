@@ -80,12 +80,14 @@ import matplotlib.pyplot as plt
 
 # Создание графика
 
-plt.title('clf: Соотношение глубины к результатам предсказания')
-plt.plot(dep, test_accuracy, label = 'Testing Accuracy')
-plt.plot(dep, train_accuracy, label = 'Training Accuracy')
+plt.figure(figsize=(8,6), dpi= 100)
+plt.style.use("bmh")
+plt.title('Соотношение глубины к точности предсказания')
+plt.plot(dep, test_accuracy, label = 'Точность теста')
+plt.plot(dep, train_accuracy, label = 'Точность тренеровки')
 plt.legend()
-plt.xlabel('Depth of tree')
-plt.ylabel('Accuracy')
+plt.xlabel('Глубина')
+plt.ylabel('Точность')
 plt.show()
 
 # Улучшение дерева 

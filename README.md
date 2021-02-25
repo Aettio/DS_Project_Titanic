@@ -116,7 +116,7 @@ p.s. Во время работы над проектом я дополните�
 
 ### Подбор оптимальных параметров дерева
 
-![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Tree_Test.png)
+![alt text](https://github.com/Aettio/DS_Project_Titanic/blob/main/Images/Tree_Accuracy.png)
 
 ### Тестирование
 

@@ -77,10 +77,6 @@ for i, k in enumerate(dep):
 # Диапазон параметров для оптимального размера и метода дерева
 
 import matplotlib.pyplot as plt
-import seaborn as sns
-
-%matplotlib inline
-sns.set()
 
 # Создание графика
 

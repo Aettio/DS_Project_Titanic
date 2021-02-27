@@ -159,4 +159,5 @@ p.s. Во время работы над проектом я дополните�
 - Датасет : https://www.kaggle.com/c/titanic
 - Matplotlib документация : https://matplotlib.org/3.1.1/contents.html
 - Seaborn документация : https://seaborn.pydata.org/introduction.html
-- Pandas документация : https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.items.html
+- Pandas документация : https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+- Plotly 3D документация : https://plotly.com/python/3d-scatter-plots/

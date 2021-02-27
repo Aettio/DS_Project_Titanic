@@ -155,3 +155,8 @@ p.s. Во время работы над проектом я дополните�
 (Полный код вы можете просмотерть в Code_Tree.py)
 
 ## Источники
+
+Датасет : https://www.kaggle.com/c/titanic
+Matplotlib документация : https://matplotlib.org/3.1.1/contents.html
+Seaborn документация : https://seaborn.pydata.org/introduction.html
+Pandas документация : https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.items.html

@@ -1,4 +1,4 @@
-# Data science | Project: "Titanic"
+# Data science | Project : "Titanic"
 
 ## Гайд по проекту
 
